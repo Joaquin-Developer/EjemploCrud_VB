@@ -1,0 +1,15 @@
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\obj\Debug\Presentacion.vbprojAssemblyReference.cache
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\obj\Debug\Presentacion.FormA.resources
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\obj\Debug\Presentacion.FormB.resources
+C:\Users\Ismael\source\repos\CleanCode\Presentacion\obj\Debug\Presentacion.FormC.resources
